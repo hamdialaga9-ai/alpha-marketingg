@@ -1,0 +1,7 @@
+{
+  "name": "Alpha Marketing Agency",
+  "description": "Une agence de marketing digital haut de gamme spécialisée dans les campagnes publicitaires, le shooting et la création de contenu pour le marché tunisien.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
